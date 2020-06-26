@@ -13,11 +13,11 @@
   
   
   ## Acceptance criteria
-  * Recreate all screen elements
-  * Adapt all the elements to fit the 8 point grid system
-  * Convert the icons drew into shapes and flatten them
-  * Create text and layer styles and apply them
-  * Link screens to create a prototype
+  * Recreate all screen elements;
+  * Adapt all the elements to fit the 8 point grid system;
+  * Convert the icons drew into shapes and flatten them;
+  * Create text and layer styles and apply them;
+  * Link screens to create a prototype;
   * Tip: You can do some tweaks on the interface if you want to!
   
 ## Prerequisites
